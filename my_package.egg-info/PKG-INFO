@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: my-package
+Version: 0.1.0
+Summary: Describe your package in one sentence
+Home-page: UNKNOWN
+Author: Lionel Guillou
+Author-email: lionel.guillou@cytovale.com
+License: Apache License 2.0
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# README
+
+This package is for practice only.
+
+## Prerequisites
+
+* None
+
+## Instructions
+
+* None
+
